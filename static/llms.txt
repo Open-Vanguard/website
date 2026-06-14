@@ -1,0 +1,20 @@
+# OSS Labs
+> A community of engineers building open source developer tools and infrastructure. Working in the open, together.
+
+## Site
+- Home: https://ossl.dev
+- Projects: https://ossl.dev/projects/
+- About: https://ossl.dev/about/
+- Blog: https://ossl.dev/blog/
+
+## Projects
+- genesis (TypeScript): https://github.com/Open-Vanguard/genesis — Declarative, cross-platform developer environment provisioning engine.
+- zinc (Rust, 62 stars): https://github.com/Open-Vanguard/zinc — Universal Shared Memory. Fast, cross-language memory sharing.
+- pylon (TypeScript): https://github.com/Open-Vanguard/pylon — Dead simple API versioning.
+
+## Community
+- GitHub: https://github.com/Open-Vanguard
+
+## For LLMs
+- Full documentation: https://ossl.dev/llms-full.txt
+- Sitemap: https://ossl.dev/sitemap.xml
