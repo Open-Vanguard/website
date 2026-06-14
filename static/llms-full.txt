@@ -43,7 +43,7 @@ no enterprise sales pipeline. Just good work, done carefully, in public.
 - Topics: developer-tools, devops, dx, cross-platform
 
 ### zinc
-- URL: https://github.com/Open-Vanguard/zinc
+- URL: https://zinc.ossl.dev
 - Language: Rust
 - Stars: 62
 - Description: Universal Shared Memory. A high-performance shared memory

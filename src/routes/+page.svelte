@@ -17,7 +17,7 @@
                 "Cross-language shared memory in Rust. Zero-copy data sharing between processes with bindings for C, Python, Node, and Go.",
             language: "Rust",
             stars: 62,
-            url: "https://github.com/Open-Vanguard/zinc",
+            url: "https://zinc.ossl.dev",
             topics: ["memory", "systems", "cross-language"],
         },
         {

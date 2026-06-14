@@ -15,7 +15,7 @@
       description: 'Universal Shared Memory. A high-performance shared memory library in Rust with bindings for C, Python, Node, and Go. Zero-copy data sharing across language boundaries.',
       language: 'Rust',
       stars: 62,
-      url: 'https://github.com/Open-Vanguard/zinc',
+      url: 'https://zinc.ossl.dev',
       topics: ['memory', 'systems', 'cross-language', 'ffi'],
     },
     {
