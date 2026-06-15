@@ -30,7 +30,7 @@
             <div class="footer-col">
                 <h4>Community</h4>
                 <a
-                    href="https://github.com/Open-Vanguard"
+                    href="https://github.com/ossl-dev"
                     target="_blank"
                     rel="noopener">GitHub</a
                 >

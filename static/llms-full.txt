@@ -7,7 +7,7 @@ developer tools and infrastructure. We focus on problems we understand deeply:
 reproducible environments, cross-language memory, and clean API design.
 
 Founded as Open Vanguard (name transition in progress), OSS Labs operates under
-the domain ossl.dev. The GitHub organization is github.com/Open-Vanguard.
+the domain ossl.dev. The GitHub organization is github.com/ossl-dev.
 
 ## Mission
 
@@ -34,7 +34,7 @@ no enterprise sales pipeline. Just good work, done carefully, in public.
 ## Projects
 
 ### genesis
-- URL: https://github.com/Open-Vanguard/genesis
+- URL: https://github.com/ossl-dev/genesis
 - Language: TypeScript
 - Stars: 1
 - Description: Declarative, cross-platform developer environment provisioning
@@ -52,7 +52,7 @@ no enterprise sales pipeline. Just good work, done carefully, in public.
 - Topics: memory, systems, cross-language, ffi
 
 ### pylon
-- URL: https://github.com/Open-Vanguard/pylon
+- URL: https://github.com/ossl-dev/pylon
 - Language: TypeScript
 - Stars: 0
 - Description: Dead simple API versioning. Works with Express, Fastify, Hono,
@@ -69,6 +69,6 @@ no enterprise sales pipeline. Just good work, done carefully, in public.
 
 ## Community
 
-- GitHub Organization: https://github.com/Open-Vanguard
+- GitHub Organization: https://github.com/ossl-dev
 - All projects welcome contributors. Good contributions get noticed.
   Good contributors get commit access.

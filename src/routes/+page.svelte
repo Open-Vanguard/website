@@ -8,7 +8,7 @@
                 "Reproducible dev environments defined as code. One command to provision the exact same toolchain, SDKs, and config across any machine.",
             language: "TypeScript",
             stars: 1,
-            url: "https://github.com/Open-Vanguard/genesis",
+            url: "https://github.com/ossl-dev/genesis",
             topics: ["developer-tools", "devops", "dx"],
         },
         {
@@ -26,7 +26,7 @@
                 "API versioning that does not require restructuring your codebase. Works with Express, Fastify, Hono, and anything shaped like middleware.",
             language: "TypeScript",
             stars: 0,
-            url: "https://github.com/Open-Vanguard/pylon",
+            url: "https://github.com/ossl-dev/pylon",
             topics: ["api", "versioning", "backend"],
         },
     ];
@@ -61,6 +61,10 @@
     />
     <meta name="robots" content="index, follow" />
     <link rel="canonical" href="https://ossl.dev" />
+    <meta property="og:image" content="https://ossl.dev/og-images/home.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta name="twitter:image" content="https://ossl.dev/og-images/home.png" />
     <script type="application/ld+json">
     {JSON.stringify({
       '@context': 'https://schema.org',
@@ -68,7 +72,7 @@
       name: 'OSS Labs',
       url: 'https://ossl.dev',
       description: 'A community of open source engineers building developer tools together.',
-      sameAs: ['https://github.com/Open-Vanguard'],
+      sameAs: ['https://github.com/ossl-dev'],
     })}
     </script>
 </svelte:head>
@@ -84,8 +88,8 @@
             focus on problems we understand deeply.
         </p>
         <div class="hero-actions">
-            <a href="/projects/" class="btn-primary">See our work</a>
-            <a href="/about/" class="btn-ghost">About the community</a>
+            <a href="/projects" class="btn-primary">See our work</a>
+            <a href="/about" class="btn-ghost">About the community</a>
         </div>
     </div>
 </section>
@@ -103,7 +107,7 @@
         {/each}
     </div>
     <div class="section-cta">
-        <a href="/projects/" class="link-arrow">All projects</a>
+        <a href="/projects" class="link-arrow">All projects</a>
     </div>
 </section>
 
@@ -148,7 +152,7 @@
             Every contribution moves the community forward.
         </p>
         <a
-            href="https://github.com/Open-Vanguard"
+            href="https://github.com/ossl-dev"
             target="_blank"
             rel="noopener noreferrer"
             class="btn-primary"
@@ -173,8 +177,8 @@
         display: flex;
         align-items: center;
         justify-content: center;
-        min-height: 90vh;
-        padding: 8rem 1.5rem 4rem;
+        min-height: 100vh;
+        padding: 6rem 1.5rem 4rem;
     }
 
     .hero-content {

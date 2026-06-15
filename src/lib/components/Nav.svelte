@@ -31,7 +31,7 @@
 
         <div class="nav-actions">
             <a
-                href="https://github.com/Open-Vanguard"
+                href="https://github.com/ossl-dev"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="OSS Labs on GitHub"

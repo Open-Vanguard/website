@@ -3,17 +3,17 @@
 
 ## Site
 - Home: https://ossl.dev
-- Projects: https://ossl.dev/projects/
-- About: https://ossl.dev/about/
-- Blog: https://ossl.dev/blog/
+- Projects: https://ossl.dev/projects
+- About: https://ossl.dev/about
+- Blog: https://ossl.dev/blog
 
 ## Projects
-- genesis (TypeScript): https://github.com/Open-Vanguard/genesis — Declarative, cross-platform developer environment provisioning engine.
-- zinc (Rust, 62 stars): https://zinc.ossl.dev — Universal Shared Memory. Fast, cross-language memory sharing.
-- pylon (TypeScript): https://github.com/Open-Vanguard/pylon — Dead simple API versioning.
+- genesis (TypeScript): https://github.com/ossl-dev/genesis - Declarative, cross-platform developer environment provisioning engine.
+- zinc (Rust, 62 stars): https://zinc.ossl.dev - Universal Shared Memory. Fast, cross-language memory sharing.
+- pylon (TypeScript): https://github.com/ossl-dev/pylon - Dead simple API versioning.
 
 ## Community
-- GitHub: https://github.com/Open-Vanguard
+- GitHub: https://github.com/ossl-dev
 
 ## For LLMs
 - Full documentation: https://ossl.dev/llms-full.txt
