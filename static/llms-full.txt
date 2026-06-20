@@ -1,71 +1,41 @@
-# OSS Labs - Full Documentation for LLMs
+# OSS Labs
+
+> A community of open source engineers building developer tools together.
 
 ## Overview
 
-OSS Labs is a small group of engineers building and maintaining open source
-developer tools and infrastructure. We focus on problems we understand deeply:
-reproducible environments, cross-language memory, and clean API design.
-
-Founded as Open Vanguard (name transition in progress), OSS Labs operates under
-the domain ossl.dev. The GitHub organization is github.com/ossl-dev.
+Founded as Open Vanguard, OSS Labs operates under ossl.dev. The GitHub organization is github.com/ossl-dev.
 
 ## Mission
 
-We build open source tools that solve real problems. Each project exists because
-someone needed it badly enough to build it. No investors, no growth targets,
-no enterprise sales pipeline. Just good work, done carefully, in public.
+We build open source tools that solve real problems. Each project exists because someone needed it badly enough to build it.
 
 ## How We Work
 
-1. Solve real problems. We do not chase trends or rewrite things because a new
-   framework dropped. Every project exists to fix something we hit ourselves.
-
-2. Small is a feature. We prefer libraries that do one thing well over frameworks
-   that do everything adequately. Less code means fewer bugs, faster reviews,
-   simpler upgrades.
-
-3. Review is where the work happens. Patient, thorough code review produces
-   better software than clever initial implementations. Good reviewers are as
-   valuable as good authors.
-
-4. Earn the keys. Write code, review PRs, help with issues. Do that consistently
-   and thoughtfully, and you get commit access. No politics, no gatekeeping.
+1. **Solve real problems.** We do not chase trends or rewrite things because a new framework dropped.
+2. **Small is a feature.** Libraries that do one thing well over frameworks that do everything adequately.
+3. **Review is where the work happens.** Patient, thorough code review produces better software.
+4. **Earn the keys.** Write code, review PRs, help with issues. Consistent quality work earns commit access.
 
 ## Projects
 
-### genesis
-- URL: https://github.com/ossl-dev/genesis
-- Language: TypeScript
-- Description: Declarative, cross-platform developer environment provisioning
-  engine. Define your toolchain, SDKs, and config as code. One command to
-  recreate the exact same environment everywhere.
-- Topics: developer-tools, devops, dx, cross-platform
+- [genesis](https://github.com/ossl-dev/genesis): Declarative, cross-platform developer environment provisioning engine. TypeScript.
+- [zinc](https://zinc.ossl.dev): Universal Shared Memory. High-performance shared memory library in Rust with bindings for C, Python, Node, and Go.
+- [pylon](https://github.com/ossl-dev/pylon): Dead simple API versioning. Works with Express, Fastify, Hono, and anything middleware-shaped. TypeScript.
 
-### zinc
-- URL: https://zinc.ossl.dev
-- Language: Rust
-- Description: Universal Shared Memory. A high-performance shared memory
-  library in Rust with bindings for C, Python, Node, and Go. Zero-copy data
-  sharing across language boundaries.
-- Topics: memory, systems, cross-language, ffi
+## Tech Stack
 
-### pylon
-- URL: https://github.com/ossl-dev/pylon
-- Language: TypeScript
-- Description: Dead simple API versioning. Works with Express, Fastify, Hono,
-  and anything middleware-shaped. Clean routing, minimal overhead, no codebase
-  restructuring required.
-- Topics: api, versioning, backend, http
-
-## Website
-
-- Domain: https://ossl.dev
-- Built with: SvelteKit (fully static generation)
-- Package manager: Bun
-- Pages: Home, Projects, About, Blog
+- **Framework:** SvelteKit (fully static generation)
+- **Package manager:** Bun
+- **Hosting:** Vercel
+- **Domain:** ossl.dev
 
 ## Community
 
-- GitHub Organization: https://github.com/ossl-dev
-- All projects welcome contributors. Good contributions get noticed.
-  Good contributors get commit access.
+- [GitHub](https://github.com/ossl-dev)
+- [Discussions](https://github.com/ossl-dev/discussions)
+
+## Optional
+
+- [llms.txt](https://ossl.dev/llms.txt): Short version of this file with essential links only.
+- [Sitemap](https://ossl.dev/sitemap.xml): Full site structure for crawling.

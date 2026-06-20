@@ -1,20 +1,25 @@
 # OSS Labs
-> A community of engineers building open source developer tools and infrastructure. Working in the open, together.
+
+> A community of open source engineers building developer tools together.
 
 ## Site
-- Home: https://ossl.dev
-- Projects: https://ossl.dev/projects
-- About: https://ossl.dev/about
-- Blog: https://ossl.dev/blog
+
+- [Home](https://ossl.dev)
+- [Projects](https://ossl.dev/projects)
+- [About](https://ossl.dev/about)
 
 ## Projects
-- genesis (TypeScript): https://github.com/ossl-dev/genesis - Declarative, cross-platform developer environment provisioning engine.
-- zinc (Rust): https://zinc.ossl.dev - Universal Shared Memory. Fast, cross-language memory sharing.
-- pylon (TypeScript): https://github.com/ossl-dev/pylon - Dead simple API versioning.
+
+- [genesis](https://github.com/ossl-dev/genesis): Declarative, cross-platform developer environment provisioning engine. TypeScript.
+- [zinc](https://zinc.ossl.dev): Universal Shared Memory. Fast, cross-language memory sharing. Rust.
+- [pylon](https://github.com/ossl-dev/pylon): Dead simple API versioning. TypeScript.
 
 ## Community
-- GitHub: https://github.com/ossl-dev
 
-## For LLMs
-- Full documentation: https://ossl.dev/llms-full.txt
-- Sitemap: https://ossl.dev/sitemap.xml
+- [GitHub](https://github.com/ossl-dev)
+- [Discussions](https://github.com/ossl-dev/discussions)
+
+## Optional
+
+- [Full documentation](https://ossl.dev/llms-full.txt): Detailed project info and community docs for LLM context.
+- [Sitemap](https://ossl.dev/sitemap.xml): Full site structure.
